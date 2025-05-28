@@ -1,9 +1,9 @@
-# <div align="center">🌌 Welcome to the Codeverse 🌌</div>
+# <div align="center">🌌 Welcome to my Codeverse 🌌</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Saketh%20⚡&fontSize=50&fontAlignY=35&desc=Eat%20🍜%20|%20Code%20👨‍💻%20|%20Play%20🎮%20|%20Repeat%20🔁&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=210&section=header&text=i'm%20Saketh⚡&fontSize=50&fontAlignY=35&desc=Eat%20🍜%20|%20Code%20👨‍💻%20|%20Play%20🎮%20|%20Repeat%20🔁&descAlignY=50&descAlign=50" width="100%"/>
 </div>
-
+</div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Building+Digital+Experiences;Code+by+Day+%7C+Game+by+Night;" alt="Typing Animation" />
 </div>
